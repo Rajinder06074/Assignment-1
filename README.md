@@ -1,3 +1,4 @@
+# Task - 1
 # Python Basic Mathematical Operations
 
 A simple Python program that:
@@ -9,21 +10,20 @@ A simple Python program that:
 ## How to Run
 
 
+# Task - 2
+# Full Name Greeting Program
 
-"""
-# Task 2
-Write a Python program that does the following:
-1. Take a user's first name and last name as input.
-2. Concatenates the first name and last name into a full name.
-3. Prints a personalized greeting message using the full name.
-"""
+This Python program:
 
-## Take first name and last name
-first_name = input("Enter your first name: ")    # Enter your first name: Rajinder
-last_name = input("Enter your last name: ")      # Enter your last name: Kamboj
+- Takes the user's first name and last name as input  
+- Combines them into a full name  
+- Prints a personalized greeting message
 
-## Print personalized greeting message
+## Example
+Input:
+- First name: Rajinder
+- Last name: Kamboj
 
-print(f"Hello, {first_name} {last_name}! Welcome to Python programming.")
-
-# Hello, Rajinder Kamboj! Welcome to Python programming.
+Output:
+Hello, Rajinder Kamboj! Welcome to Python programming
+## How to Run
