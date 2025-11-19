@@ -9,12 +9,12 @@ Write a Python program that does the following:
     *Division
 """
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+num1 = int(input("Enter first number: "))  # Enter first number: 36
+num2 = int(input("Enter second number: "))  # Enter Second number: 12
 
 # print: Addition, subtraction, Multiplication, Division
 
-print("Addition: ", num1 + num2)
-print("Subtraction: ", num1 - num2)
-print("Multiplication: ", num1 * num2)
-print("Division: ", num1 / num2)
+print("Addition: ", num1 + num2)        #Addition: 48
+print("Subtraction: ", num1 - num2)     #Subtraction : 24
+print("Multiplication: ", num1 * num2)  #Multiplication: 432
+print("Division: ", num1 / num2)        #Division: 3.0
