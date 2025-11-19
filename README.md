@@ -1,4 +1,4 @@
-# Python Calculator
+# Python Basic Mathematical Operations
 
 A simple Python program that:
 
